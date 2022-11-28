@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\bin\Debug\net6.0\IsPolendrom.exe
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\bin\Debug\net6.0\IsPolendrom.deps.json
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\bin\Debug\net6.0\IsPolendrom.runtimeconfig.json
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\bin\Debug\net6.0\IsPolendrom.dll
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\bin\Debug\net6.0\IsPolendrom.pdb
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\obj\Debug\net6.0\IsPolendrom.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\obj\Debug\net6.0\IsPolendrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\obj\Debug\net6.0\IsPolendrom.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\obj\Debug\net6.0\IsPolendrom.AssemblyInfo.cs
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\obj\Debug\net6.0\IsPolendrom.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\obj\Debug\net6.0\IsPolendrom.dll
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\obj\Debug\net6.0\refint\IsPolendrom.dll
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\obj\Debug\net6.0\IsPolendrom.pdb
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\obj\Debug\net6.0\IsPolendrom.genruntimeconfig.cache
+C:\Users\HP\Desktop\Static, Extensions\Task2\IsPolendrom\IsPolendrom\obj\Debug\net6.0\ref\IsPolendrom.dll

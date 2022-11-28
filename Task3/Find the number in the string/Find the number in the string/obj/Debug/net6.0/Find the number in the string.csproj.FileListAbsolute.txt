@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\bin\Debug\net6.0\Find the number in the string.exe
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\bin\Debug\net6.0\Find the number in the string.deps.json
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\bin\Debug\net6.0\Find the number in the string.runtimeconfig.json
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\bin\Debug\net6.0\Find the number in the string.dll
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\bin\Debug\net6.0\Find the number in the string.pdb
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\obj\Debug\net6.0\Find the number in the string.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\obj\Debug\net6.0\Find the number in the string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\obj\Debug\net6.0\Find the number in the string.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\obj\Debug\net6.0\Find the number in the string.AssemblyInfo.cs
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\obj\Debug\net6.0\Find the number in the string.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\obj\Debug\net6.0\Find the number in the string.dll
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\obj\Debug\net6.0\refint\Find the number in the string.dll
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\obj\Debug\net6.0\Find the number in the string.pdb
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\obj\Debug\net6.0\Find the number in the string.genruntimeconfig.cache
+C:\Users\HP\Desktop\Static, Extensions\Task3\Find the number in the string\Find the number in the string\obj\Debug\net6.0\ref\Find the number in the string.dll
